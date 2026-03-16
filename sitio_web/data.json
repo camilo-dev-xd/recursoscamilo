@@ -1,0 +1,860 @@
+[
+  {
+    "id": "abduzeedo",
+    "name": "Abduzeedo",
+    "url": "https://abduzeedo.com/",
+    "categories": [
+      "Inspiración"
+    ],
+    "description": "Blog de diseño con artículos sobre diseño gráfico, web, fotografía, UX y tutoriales para herramientas como Photoshop e Illustrator.",
+    "image": "- - imagen 5.png"
+  },
+  {
+    "id": "aistudio",
+    "name": "Aistudio",
+    "url": "https://aistudio.google.com/",
+    "categories": [
+      "Herramientas IA",
+      "Fotos",
+      "Voces"
+    ],
+    "description": "Plataforma de inteligencia artificial para crear y experimentar con modelos.",
+    "image": "- - - imagen 42.png"
+  },
+  {
+    "id": "akveo-eva-icons",
+    "name": "Akveo Eva Icons",
+    "url": "https://akveo.github.io/eva-icons/#/",
+    "categories": [
+      "Iconos"
+    ],
+    "description": "Iconos gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "imagen 23.png"
+  },
+  {
+    "id": "ampliación-de-imagen-net",
+    "name": "ampliación de imagen.net",
+    "url": "https://image-upscaling.net/upscaling/en.html#",
+    "categories": [
+      "Herramientas IA"
+    ],
+    "description": "Escalador ascendente de imágenes de IA",
+    "image": "- - imagen 75.png"
+  },
+  {
+    "id": "awesome-dev-portfolios",
+    "name": "awesome-dev-portfolios",
+    "url": "https://awesome-dev-portfolios.vercel.app",
+    "categories": [
+      "Inspiración"
+    ],
+    "description": "es una colección de portafolios de desarrolladores para inspiración y referencia.",
+    "image": "imagen 64.png"
+  },
+  {
+    "id": "behance",
+    "name": "Behance",
+    "url": "https://www.behance.net/",
+    "categories": [
+      "Inspiración"
+    ],
+    "description": "Plataforma en línea donde creativos pueden mostrar sus trabajos y buscar oportunidades laborales.",
+    "image": "imagen 6.png"
+  },
+  {
+    "id": "bingjpg",
+    "name": "Bingjpg",
+    "url": "https://bigjpg.com",
+    "categories": [
+      "Herramientas IA"
+    ],
+    "description": "Mejora la calidad de las imágenes mediante inteligencia artificial.",
+    "image": "imagen 43.png"
+  },
+  {
+    "id": "branding-style-guides",
+    "name": "Branding Style Guides",
+    "url": "https://brandingstyleguides.com/",
+    "categories": [],
+    "description": "Archivo de manuales de diseño de marca que ofrece una colección de guías de estilo de marcas de todo el mundo.",
+    "image": "- - imagen 1.png"
+  },
+  {
+    "id": "chatgpt",
+    "name": "Chatgpt",
+    "url": "https://chatgpt.com/",
+    "categories": [
+      "Herramientas IA",
+      "Fotos"
+    ],
+    "description": "Herramienta de inteligencia artificial para generar texto.",
+    "image": "- - - imagen 39.png"
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "url": "https://claude.ai/new",
+    "categories": [
+      "Herramientas IA"
+    ],
+    "description": "Herramienta de inteligencia artificial para generar respuestas conversacionales. Se caracteriza por su buen razonamiento matemático.",
+    "image": "- - - imagen 40.png"
+  },
+  {
+    "id": "cleanpng",
+    "name": "Cleanpng",
+    "url": "https://www.cleanpng.com/",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "Biblioteca de imágenes en png",
+    "image": "- - imagen 78.png"
+  },
+  {
+    "id": "color-hunt",
+    "name": "Color Hunt",
+    "url": "https://colorhunt.co/",
+    "categories": [
+      "Color"
+    ],
+    "description": "Paletas de colores para inspiración y diseño.",
+    "image": "imagen 48.png"
+  },
+  {
+    "id": "color-name",
+    "name": "Color name",
+    "url": "https://www.color-name.com/",
+    "categories": [
+      "Color"
+    ],
+    "description": "Encuentra el nombre de un color a partir de su código hexadecimal.",
+    "image": "imagen 47.png"
+  },
+  {
+    "id": "color-adobe",
+    "name": "Color.adobe",
+    "url": "https://color.adobe.com/es/create/color-wheel",
+    "categories": [
+      "Color"
+    ],
+    "description": "Herramienta de paletas de colores de Adobe.",
+    "image": "imagen 59.png"
+  },
+  {
+    "id": "colorspace",
+    "name": "ColorSpace",
+    "url": "https://mycolor.space/",
+    "categories": [
+      "Color"
+    ],
+    "description": "Herramienta para generar paletas de colores y gradientes.",
+    "image": "imagen 49.png"
+  },
+  {
+    "id": "coolors",
+    "name": "Coolors",
+    "url": "https://coolors.co/",
+    "categories": [
+      "Color"
+    ],
+    "description": "Generador de paletas de colores para diseño.",
+    "image": "imagen 50.png"
+  },
+  {
+    "id": "coverr",
+    "name": "Coverr",
+    "url": "https://coverr.co/",
+    "categories": [
+      "Videos",
+      "Fotos",
+      "Música"
+    ],
+    "description": "Descarga vídeos, imagenes, musica, gratis",
+    "image": "- - imagen 73.png"
+  },
+  {
+    "id": "designspiration",
+    "name": "Designspiration",
+    "url": "https://www.designspiration.com/",
+    "categories": [
+      "Inspiración"
+    ],
+    "description": "Plataforma de inspiración visual que permite buscar y guardar imágenes y colores para crear tableros de ideas",
+    "image": "imagen 4.png"
+  },
+  {
+    "id": "docdownloader",
+    "name": "Docdownloader",
+    "url": "https://docdownloader.com/",
+    "categories": [
+      "Herramientas DOCS"
+    ],
+    "description": "Descarga documentos de Scribd, Issuu, Slideshare y Academia.edu. gratis y sin registro",
+    "image": "- - - imagen 46.png"
+  },
+  {
+    "id": "dribbble",
+    "name": "Dribbble",
+    "url": "https://dribbble.com/",
+    "categories": [
+      "Inspiración"
+    ],
+    "description": "Comunidad en línea para diseñadores y creativos para compartir, descubrir y obtener inspiración.",
+    "image": "imagen 7.png"
+  },
+  {
+    "id": "durves",
+    "name": "Durves",
+    "url": "https://www.durves.com/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Patron de diseño basado en putos para dar personalidad a fondos de diseños el cual se puede personalizar.",
+    "image": "- - - imagen 37.png"
+  },
+  {
+    "id": "epidemicsound-com",
+    "name": "Epidemicsound.com",
+    "url": "Categoria:",
+    "categories": [],
+    "description": "Imagen:  [[imagen 1.png]]",
+    "image": "imagen 1.png"
+  },
+  {
+    "id": "foodiesfeed",
+    "name": "foodiesfeed",
+    "url": "https://www.foodiesfeed.com",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "fotos de comida gratis",
+    "image": "imagen 53.png"
+  },
+  {
+    "id": "freeforcommercialuse",
+    "name": "Freeforcommercialuse",
+    "url": "https: https://freeforcommercialuse.net",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "\" Ofrece recursos como imágenes y fotos de archivo, para uso comercial gratis.\"",
+    "image": "- - imagen 72.png"
+  },
+  {
+    "id": "freeimages",
+    "name": "FreeImages",
+    "url": "https://www.freeimages.com/es",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "Fotos gratuitas para uso personal y comercial.",
+    "image": "imagen 31.png"
+  },
+  {
+    "id": "freemusicarchive",
+    "name": "freemusicarchive",
+    "url": "https://freemusicarchive.org/home",
+    "categories": [
+      "Música"
+    ],
+    "description": "Música gratuita para usar en proyectos de diseño.",
+    "image": "- - - imagen 57.png"
+  },
+  {
+    "id": "gamma",
+    "name": "Gamma",
+    "url": "https://gamma.app/create/",
+    "categories": [
+      "Herramientas IA"
+    ],
+    "description": "Permite realizar presentaciones de hasta 10 diapositivas.",
+    "image": "imagen 45.png"
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "url": "https://gemini.google.com/app?hl=es_419",
+    "categories": [
+      "Herramientas IA",
+      "Fotos"
+    ],
+    "description": "herramienta para hacer invesgaciones profundas en internet",
+    "image": "- - - imagen 67.png"
+  },
+  {
+    "id": "google-fonts-icons",
+    "name": "Google Fonts Icons",
+    "url": "https://fonts.google.com/",
+    "categories": [
+      "Iconos",
+      "Tipografias"
+    ],
+    "description": "Iconos gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "- - - imagen 22.png"
+  },
+  {
+    "id": "gratisography",
+    "name": "Gratisography",
+    "url": "https://gratisography.com/",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "Fotos gratuitas para uso personal y comercial, con un enfoque en imágenes únicas y creativas.",
+    "image": "imagen 15.png"
+  },
+  {
+    "id": "haikei",
+    "name": "Haikei",
+    "url": "https://app.haikei.app/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Generador de formas SVG gratuitas para descargar y usar en proyectos de diseño. Como para fondos de diapositivas",
+    "image": "- - - imagen 36.png"
+  },
+  {
+    "id": "handy-arrows",
+    "name": "Handy Arrows",
+    "url": "https://handyarrows.com/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Flechas SVG gratuitas para descargar y usar en proyectos de diseño.",
+    "image": "imagen 34.png"
+  },
+  {
+    "id": "harmony-music",
+    "name": "Harmony Music",
+    "url": "Categoria:",
+    "categories": [
+      "Música",
+      "Programas"
+    ],
+    "description": "Programa de código abierto que te permite reproducir y descargar música gratis y sin anuncios.",
+    "image": "- - imagen 74.png"
+  },
+  {
+    "id": "icones-js",
+    "name": "Icones.js",
+    "url": "https://icones.js.org/",
+    "categories": [
+      "Iconos"
+    ],
+    "description": "Iconos gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "- - - imagen 28.png"
+  },
+  {
+    "id": "iconhub",
+    "name": "IconHub",
+    "url": "https://iconhub.io/",
+    "categories": [
+      "Iconos"
+    ],
+    "description": "Iconos gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "imagen 29.png"
+  },
+  {
+    "id": "iconify",
+    "name": "iconify",
+    "url": "https://icon-sets.iconify.design/",
+    "categories": [
+      "Iconos",
+      "Vectores"
+    ],
+    "description": "Iconos gratuitos para descargar y usar en proyectos de diseño. **MUY RECOMENDADO**",
+    "image": "- - - imagen 27.png"
+  },
+  {
+    "id": "iconmonstr",
+    "name": "Iconmonstr",
+    "url": "https://iconmonstr.com/",
+    "categories": [
+      "Iconos"
+    ],
+    "description": "Iconos gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "imagen 24.png"
+  },
+  {
+    "id": "illustrationkit",
+    "name": "IllustrationKit",
+    "url": "https://illustrationkit.com/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Ilustraciones gratuitas para descargar y usar en proyectos de diseño.",
+    "image": "imagen 19.png"
+  },
+  {
+    "id": "illustrations",
+    "name": "Illustrations",
+    "url": "https://illlustrations.co/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Ilustraciones gratuitas para descargar y usar en proyectos de diseño, con un enfoque en estilos modernos y minimalistas.",
+    "image": "imagen 20.png"
+  },
+  {
+    "id": "isorepublic",
+    "name": "Isorepublic",
+    "url": "https://isorepublic.com/",
+    "categories": [
+      "Fotos",
+      "Videos"
+    ],
+    "description": "Fotos y videos gratuitos para uso personal y comercial.",
+    "image": "imagen 14.png"
+  },
+  {
+    "id": "jitter-video",
+    "name": "Jitter.video",
+    "url": "https://jitter.video/?noredir=1",
+    "categories": [
+      "Plantillas",
+      "Animaciones",
+      "Videos"
+    ],
+    "description": "Plantillas profesionales de animaciones para redes sociales gratis",
+    "image": "- - imagen 71.png"
+  },
+  {
+    "id": "kaboompics",
+    "name": "Kaboompics",
+    "url": "https://kaboompics.com/",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "Fotos gratuitas para uso personal y comercial, con un enfoque en imágenes auténticas y naturales.",
+    "image": "imagen 13.png"
+  },
+  {
+    "id": "life-of-pix",
+    "name": "Life of Pix",
+    "url": "https://www.lifeofpix.com/",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "Fotos de alta resolución gratuitas para uso personal y comercial.",
+    "image": "imagen 12.png"
+  },
+  {
+    "id": "logggos",
+    "name": "Logggos",
+    "url": "https://www.logggos.club/browse",
+    "categories": [
+      "Inspiración"
+    ],
+    "description": "Recopilación de logotipos para inspiración y referencia.",
+    "image": "imagen 62.png"
+  },
+  {
+    "id": "logobook",
+    "name": "Logobook",
+    "url": "https://logobook.com/",
+    "categories": [],
+    "description": "Es una galería y escaparate que presenta una cuidadosa selección de los mejores logotipos, símbolos y marcas registradas del mundo.",
+    "image": "- - imagen 3.png"
+  },
+  {
+    "id": "logossystem",
+    "name": "logossystem",
+    "url": "https://logosystem.co",
+    "categories": [
+      "Inspiración"
+    ],
+    "description": "Sistema de diseño de logotipos para inspiración y referencia.",
+    "image": "imagen 63.png"
+  },
+  {
+    "id": "magdeleine",
+    "name": "Magdeleine",
+    "url": "https://magdeleine.co/?s=car",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "fotos gratis con licencia CC0",
+    "image": "imagen 54.png"
+  },
+  {
+    "id": "mixboard",
+    "name": "Mixboard",
+    "url": "https://labs.google.com/mixboard/welcome",
+    "categories": [
+      "Herramientas IA",
+      "Fotos"
+    ],
+    "description": "Mixboard es un tablero conceptual experimental impulsado por IA diseñado para ayudarte a explorar, expandir y refinar tus ideas.",
+    "image": "- - imagen 68.png"
+  },
+  {
+    "id": "mixkit",
+    "name": "Mixkit",
+    "url": "https://mixkit.co/",
+    "categories": [
+      "Videos",
+      "Iconos",
+      "FX",
+      "Plantillas",
+      "Música"
+    ],
+    "description": "Videos, música y fotos vectores gratuitos para uso personal y comercial.",
+    "image": "- - - imagen 17.png"
+  },
+  {
+    "id": "morguefile",
+    "name": "Morguefile",
+    "url": "https://morguefile.com/",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "Fotos gratuitas para uso personal y comercial, con un enfoque en imágenes auténticas y de alta calidad.",
+    "image": "imagen 16.png"
+  },
+  {
+    "id": "my-instnts",
+    "name": "My instnts",
+    "url": "https://myinstants.com/",
+    "categories": [
+      "FX"
+    ],
+    "description": "efectos de sonido gratis",
+    "image": "- - - imagen 60.png"
+  },
+  {
+    "id": "namecheck",
+    "name": "Namecheck",
+    "url": "https://www.namecheck.com/en/",
+    "categories": [
+      "Emprendimiento"
+    ],
+    "description": "Encuentra el mejor nombre para tu próximo proyecto",
+    "image": "- - imagen 70.png"
+  },
+  {
+    "id": "napkin",
+    "name": "Napkin",
+    "url": "https://app.napkin.ai/page/create",
+    "categories": [
+      "Herramientas IA"
+    ],
+    "description": "Genera una gran variedad de infografías a partir de un documento de texto.",
+    "image": "imagen 44.png"
+  },
+  {
+    "id": "notebooklm",
+    "name": "Notebooklm",
+    "url": "https://notebooklm.google/",
+    "categories": [
+      "Herramientas IA"
+    ],
+    "description": "Herramienta de inteligencia artificial que te permite subir una base de información determinada como documentos, videos audios imagenes... y con ello puedes pedirle que resuma y analice, cree potcast, video presentaciones, guías de estudio...",
+    "image": "- - - imagen 41.png"
+  },
+  {
+    "id": "openclipart",
+    "name": "OpenClipart",
+    "url": "https://openclipart.org/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Cliparts gratuitos de dominio público para descargar y usar en proyectos de diseño.",
+    "image": "imagen 33.png"
+  },
+  {
+    "id": "pagespeed",
+    "name": "pagespeed",
+    "url": "https://pagespeed.web.dev",
+    "categories": [
+      "Diseño web",
+      "SEO"
+    ],
+    "description": "PageSpeed Insights (de Google) sirve para analizar, medir y optimizar la velocidad de carga y el rendimiento de sitios web en móviles y ordenadores. Proporciona una puntuación del 0 al 100 y recomendaciones técnicas específicas (como optimizar imágenes o reducir CSS) para mejorar la experiencia del usuario y el posicionamiento SEO",
+    "image": "- - imagen 81.png"
+  },
+  {
+    "id": "paladar-negro",
+    "name": "Paladar Negro",
+    "url": "https://paladarnegro.net/escudoteca/index.html",
+    "categories": [
+      "Ilustraciones",
+      "Iconos",
+      "Vectores"
+    ],
+    "description": "Recopilación de escudos de futbol en formato vectorial",
+    "image": "- - imagen 69.png"
+  },
+  {
+    "id": "pexels",
+    "name": "Pexels",
+    "url": "https://www.pexels.com/",
+    "categories": [
+      "Fotos",
+      "Videos"
+    ],
+    "description": "Fotos y videos gratuitos para uso personal y comercial.",
+    "image": "imagen 9.png"
+  },
+  {
+    "id": "phosphor-icons",
+    "name": "Phosphor Icons",
+    "url": "https://phosphoricons.com/",
+    "categories": [
+      "Iconos"
+    ],
+    "description": "Iconos gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "imagen 30.png"
+  },
+  {
+    "id": "pikwizard",
+    "name": "Pikwizard",
+    "url": "https://pikwizard.com/",
+    "categories": [
+      "Fotos",
+      "Videos",
+      "Plantillas"
+    ],
+    "description": "Contenido gratuito para descargar y usar en proyectos de diseño.",
+    "image": "- - - imagen 38.png"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "url": "https://co.pinterest.com/",
+    "categories": [],
+    "description": "Plataforma de inspiración y búsqueda visual.",
+    "image": "- - imagen 2.png"
+  },
+  {
+    "id": "pixabay",
+    "name": "Pixabay",
+    "url": "https://pixabay.com/",
+    "categories": [
+      "Fotos",
+      "Vectores",
+      "Videos"
+    ],
+    "description": "Imágenes, vectores y videos gratuitos para descargar y usar sin necesidad de atribución.",
+    "image": "imagen 10.png"
+  },
+  {
+    "id": "pixeden",
+    "name": "Pixeden",
+    "url": "https://www.pixeden.com/",
+    "categories": [
+      "Inspiración",
+      "Vectores",
+      "Iconos",
+      "Webs"
+    ],
+    "description": "Recursos de diseño gratuitos como mockups, iconos, texturas y fuentes.",
+    "image": "- - - imagen 55.png"
+  },
+  {
+    "id": "pixlr",
+    "name": "Pixlr",
+    "url": "https://pixelied.com/convert/png-converter/png-to-webp",
+    "categories": [
+      "Herramientas IA",
+      "Diseño web"
+    ],
+    "description": "CONVERTIDOR GRATUITO DE PNG A WEBP",
+    "image": "- - imagen 82.png"
+  },
+  {
+    "id": "prebuiltui",
+    "name": "Prebuiltui",
+    "url": "https: /prebuiltui.com/",
+    "categories": [],
+    "description": "Explora la colección definitiva de Componentes de la interfaz de usuario",
+    "image": "- - imagen 76.png"
+  },
+  {
+    "id": "public-domain-vectors",
+    "name": "Public Domain Vectors",
+    "url": "https://publicdomainvectors.org/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Vectores gratuitos de dominio público para descargar y usar en proyectos de diseño.",
+    "image": "imagen 32.png"
+  },
+  {
+    "id": "pxhere",
+    "name": "Pxhere",
+    "url": "https://pxhere.com/",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "Mejores fotos libres en un lugar.",
+    "image": "- - imagen 77.png"
+  },
+  {
+    "id": "qwen",
+    "name": "Qwen",
+    "url": "https://chat.qwen.ai/",
+    "categories": [
+      "Herramientas IA",
+      "Videos",
+      "Animaciones"
+    ],
+    "description": "Como chatgpt, pero excelente en la generación de video",
+    "image": "- - imagen 80.png"
+  },
+  {
+    "id": "redpandaai",
+    "name": "Redpandaai",
+    "url": "https://redpandaai.com",
+    "categories": [
+      "Herramientas IA"
+    ],
+    "description": "Red Panda AI simplifica la edición de fotos. Accede a una gama de herramientas de IA en línea gratuitas, incluyendo potentes indicaciones, para generar imágenes de alta calidad sin esfuerzo y explorar tus ideas creativas.",
+    "image": "- - - imagen 66.png"
+  },
+  {
+    "id": "reshot",
+    "name": "Reshot",
+    "url": "https://www.reshot.com",
+    "categories": [
+      "Ilustraciones",
+      "Iconos"
+    ],
+    "description": "Recurso de vectores y iconos gratuitos para diseño.",
+    "image": "- - - imagen 51.png"
+  },
+  {
+    "id": "shapedivider",
+    "name": "Shapedivider",
+    "url": "https://www.shapedivider.app/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Divisores de formas SVG gratuitos para descargar y usar en proyectos de diseño. Como para diapositivas o fondos de diseños",
+    "image": "- - - imagen 35.png"
+  },
+  {
+    "id": "shipfa-st-tools-logo-fast",
+    "name": "Shipfa.st/tools/logo-fast",
+    "url": "https://shipfa.st/tools/logo-fast",
+    "categories": [
+      "Herramientas IA",
+      "Iconos"
+    ],
+    "description": "Generador de logotipos con IA para diseño de marca.",
+    "image": "- - - imagen 65.png"
+  },
+  {
+    "id": "spectrums",
+    "name": "Spectrums",
+    "url": "https://spectrums.framer.website/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Vectores gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "imagen 21.png"
+  },
+  {
+    "id": "srtgen-com",
+    "name": "Srtgen.com",
+    "url": "https://srtgen.com/",
+    "categories": [
+      "Subtitulos"
+    ],
+    "description": "Generador de subtítulos SRT con IA 100 % gratuito SrtGen es un generador de subtítulos con IA local y gratuito que puede transcribir, traducir y renderizar sus videos o audios en más de 90 idiomas, con tecnología OpenAI y Meta",
+    "image": "- - imagen 79.png"
+  },
+  {
+    "id": "stocksnap-io",
+    "name": "StockSnap.io",
+    "url": "https://stocksnap.io/",
+    "categories": [
+      "Fotos"
+    ],
+    "description": "Fotos de alta resolución gratuitas para uso personal y comercial.",
+    "image": "imagen 11.png"
+  },
+  {
+    "id": "svg-repo",
+    "name": "SVG Repo",
+    "url": "https://www.svgrepo.com/",
+    "categories": [
+      "Iconos",
+      "Vectores"
+    ],
+    "description": "Iconos SVG gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "www.svg"
+  },
+  {
+    "id": "texture-ninja",
+    "name": "Texture.ninja",
+    "url": "https://texture.ninja/",
+    "categories": [
+      "Fotos",
+      "Texturas"
+    ],
+    "description": "Texturas gratuitas para usar en proyectos de diseño.",
+    "image": "- - - imagen 56.png"
+  },
+  {
+    "id": "texturelabs",
+    "name": "texturelabs",
+    "url": "https://www.texturelabs.org/",
+    "categories": [
+      "Fotos",
+      "Texturas"
+    ],
+    "description": "texturas gratuitas para diseño",
+    "image": "- - - imagen 61.png"
+  },
+  {
+    "id": "the-forge-smith-icons",
+    "name": "The Forge Smith Icons",
+    "url": "https://icons.theforgesmith.com/",
+    "categories": [
+      "Iconos"
+    ],
+    "description": "Iconos gratuitos para descargar y usar en proyectos de diseño.",
+    "image": "imagen 26.png"
+  },
+  {
+    "id": "tinywow",
+    "name": "tinywow",
+    "url": "https://tinywow.com",
+    "categories": [
+      "Herramientas IA",
+      "Herramientas DOCS"
+    ],
+    "description": "herramientas edicion de pdf,imagenes",
+    "image": "- - - imagen 52.png"
+  },
+  {
+    "id": "uicolors",
+    "name": "uicolors",
+    "url": "https://uicolors.app/generate/78c2ab",
+    "categories": [
+      "Color"
+    ],
+    "description": "Generador de paletas de colores para diseño web.",
+    "image": "- - - imagen 58.png"
+  },
+  {
+    "id": "undraw",
+    "name": "unDraw",
+    "url": "https://undraw.co/",
+    "categories": [
+      "Vectores"
+    ],
+    "description": "Ilustraciones gratuitas para usar en proyectos de diseño sin necesidad de atribución.",
+    "image": "imagen 18.png"
+  },
+  {
+    "id": "unsplash",
+    "name": "Unsplash",
+    "url": "https://unsplash.com/es/",
+    "categories": [
+      "Fotos",
+      "Ilustraciones"
+    ],
+    "description": "Fotos de alta resolución gratuitas para uso personal y comercial",
+    "image": "- - imagen 8.png"
+  }
+]
